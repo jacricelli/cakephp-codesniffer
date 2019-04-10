@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/cakephp-codesniffer",
+    "name": "jacricelli/cakephp-codesniffer",
     "description": "CakePHP CodeSniffer Standards",
     "type": "library",
     "keywords": ["framework", "codesniffer"],
@@ -18,7 +18,7 @@
         "source": "https://github.com/cakephp/cakephp-codesniffer"
     },
     "require": {
-        "squizlabs/php_codesniffer": "^1.4.0"
+        "jacricelli/php_codesniffer": "1.5.7"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.1.0"
